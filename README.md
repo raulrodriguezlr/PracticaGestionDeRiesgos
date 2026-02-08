@@ -17,8 +17,7 @@ Motor de stress testing que detecta regimenes de mercado con HMM, modela depende
 | Archivo | Descripcion |
 |---------|-------------|
 | `main.ipynb` | Notebook principal (entregable) |
-| `dev.ipynb` | Notebook de desarrollo |
-| `prompt.txt` | Enunciado de la practica |
+| `dev.ipynb` | Notebook de desarrollo(vacio es pata testear) |
 | `requirements.txt` | Dependencias Python |
 
 ## Cartera analizada
